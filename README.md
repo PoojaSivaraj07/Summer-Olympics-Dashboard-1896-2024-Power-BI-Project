@@ -25,8 +25,6 @@ DAX (Data Analysis Expressions)
 
 Power Query (ETL)
 
-Data source: Kaggle - Summer Olympics Medals (1896-2024) by Stefany De Oliveira
-
 📁 Dataset Fields
 
 Athlete Name
@@ -108,3 +106,15 @@ The global spread of Olympic success has increased, reflecting more equitable co
 ✅ Summary 
 
 This dashboard provides a 128-year historical view of Summer Olympics, revealing clear patterns in national dominance, gender evolution, and sport trends. Key takeaways include U.S. dominance, the rise of female athletes, the medal-rich role of Athletics, and the growing global distribution of Olympic success.
+
+📚 Data Source
+
+Kaggle - Summer Olympics Medals (1896-2024) by Stefany De Oliveira
+
+📞 Contact
+
+For any queries or collaborations, feel free to reach out:
+
+Email: spooja07122002@gmail.com
+
+GitHub: PoojaSivaraj07
